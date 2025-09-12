@@ -32,7 +32,7 @@ body {
     color: #0000;
     -webkit-text-stroke: 1px #000;
     background: conic-gradient(#000 0 0) 0/0% 100% text no-repeat;
-    /* 10lettres + 3points mais on part de zéro 0 pour aller à 13 = 14 */
+    /* 10lettres + 3 points de suspension mais on part de zéro 0 pour aller à 13 = 14 */
     animation: loading 2s steps(14, jump-none) infinite;
 }
 
